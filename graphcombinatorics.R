@@ -11,7 +11,7 @@ graphcombinatorics <- function( filename, nodesnumber ){
 
   source("matrixfromtable.R")
 
-  #export directory
+  # export directory
   if( dir.exists( "combinations" ) == FALSE ){ dir.create( "combinations" ) }
 
   storecombs      <- list()
