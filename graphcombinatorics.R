@@ -16,10 +16,10 @@ graphcombinatorics <- function( filename, nodesnumber ){
 
   storecombs      <- list()
 
-  outstore   <- matrixfromtable( filename, nodesnumber )
-  dirmatrix  <- outstore$dirmatrix
-  others     <- outstore$others
-  nnamessort <- outstore$nnamessort
+  outstore        <- matrixfromtable( filename, nodesnumber )
+  dirmatrix       <- outstore$dirmatrix
+  others          <- outstore$others
+  nnamessort      <- outstore$nnamessort
 
   numberofunknows <- nrow( others )
   possiblecombs   <- 2^numberofunknows
