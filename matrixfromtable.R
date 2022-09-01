@@ -4,7 +4,7 @@
 #October, 2019
 
 #Instituto Oswaldo Cruz (PGBCS/IOC/Fiocruz)
-#Ph.D. program on Computational and Systems Biology of the 
+#Ph.D. program on Computational and Systems Biology
 #Student: Marcos Vieira
 #September, 2022
 
